@@ -9,7 +9,7 @@ variables:
   webAppName: 'hald-udacity-devops'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  vmImageName: 'myAgentPool'
 
   # Environment name
   environmentName: 'hald-udacity-devops'

@@ -35,7 +35,7 @@ stages:
       inputs:
         rootFolderOrFile: '$(Build.SourcesDirectory)'
         includeRootFolder: false
-        archiveType: 'zip'
+        archiveType: '7z'
         archiveFile: '$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip'
         replaceExistingArchive: true
         verbose: true

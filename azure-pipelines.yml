@@ -3,7 +3,7 @@ trigger:
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
-  azureServiceConnectionId: 'd63f8116-7a20-4117-80f3-6b57296b37a5'
+  azureServiceConnectionId: 'Udacity Devops Prj3'
 
   # Web app name
   webAppName: 'hald-udacity-devops'

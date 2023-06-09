@@ -50,6 +50,8 @@ Setup CI in github
 - triggerd automatically when commit
 
 ![12  Action build](https://github.com/hakey94/Udacity_DevOps_CICD_Pipeline/assets/7892715/d5613a0f-6ce6-4278-8281-220389170bb5)
+![action build](https://github.com/hakey94/Udacity_DevOps_CICD_Pipeline/assets/7892715/63060ba0-7fb0-4432-b483-475b4f98e92b)
+
 
 Create Azure Devops project
 - Go to azure devops website: https://dev.azure.com

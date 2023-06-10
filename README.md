@@ -1,6 +1,7 @@
 # Udacity_DevOps_CICD_Pipeline
 This is project 2 of udacity course.
 
+[![Python application test with Github Actions](https://github.com/hakey94/Udacity_DevOps_CICD_Pipeline/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/hakey94/Udacity_DevOps_CICD_Pipeline/actions/workflows/pythonapp.yml)
 
 Overview
 In this project, we are going to:
@@ -73,6 +74,13 @@ Create CI/CD in Azure DevOps
 ![14 2  Pick existing yaml file](https://github.com/hakey94/Udacity_DevOps_CICD_Pipeline/assets/7892715/561589a1-58af-498f-851f-6dad4d809796)
 - result
 ![16  run pipeline success](https://github.com/hakey94/Udacity_DevOps_CICD_Pipeline/assets/7892715/a7e81038-0ddf-4c07-8097-9f03538f4834)
+
+Load test the application
+- install locust by using command: pip install locust
+- run by command: locust
+- open in web browser: http://localhost:8089
+- create load test
+- ![17 locust](https://github.com/hakey94/Udacity_DevOps_CICD_Pipeline/assets/7892715/d480d73e-8b9a-40a6-805d-26509419b3f7)
 
 Demo video
 https://youtu.be/upNW-rQhUII

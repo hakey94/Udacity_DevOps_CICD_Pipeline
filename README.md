@@ -1,7 +1,7 @@
 # Udacity_DevOps_CICD_Pipeline
 This is project 2 of udacity course.
 
-![github-actions](https://github.com/hakey94/Udacity_DevOps_CICD_Pipeline/assets/7892715/6e5df6c4-f81e-4685-b70c-818b861bac72)
+[![Python application test with Github Actions](https://github.com/hakey94/Udacity_DevOps_CICD_Pipeline/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/hakey94/Udacity_DevOps_CICD_Pipeline/actions/workflows/pythonapp.yml)
 
 Overview
 In this project, we are going to:
